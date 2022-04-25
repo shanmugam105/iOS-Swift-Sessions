@@ -4,31 +4,37 @@
 
 # iOS Swift Sessions
 <details>
-<summary> &nbsp;&nbsp; LLDB by [Vigneshkumar](#)</summary>
+<summary> &nbsp;&nbsp; LLDB by <a href="#">Vigneshkumar</a></summary>
+
   - [Session - Date: 00-00-2022](#)
 </details>
 
 <details>
-<summary> &nbsp;&nbsp; Breakpoints by [Anadhakumar](#)</summary>
+<summary> &nbsp;&nbsp; Breakpoints by <a href="#">Anadhakumar</a></summary>
+
   - [Session - Date: 00-00-2022](#)
 </details>
 
 <details>
-<summary> &nbsp;&nbsp; VIPER by [Keerthi](https://github.com/Keerthi-Sparkout)</summary>
+<summary> &nbsp;&nbsp; VIPER by <a href="https://github.com/Keerthi-Sparkout">Keerthi</a></summary>
+
 1. [VIPER Introduction - Date: 11-April-2022](#)
 </details>
 
 <details>
-<summary> &nbsp;&nbsp; SwiftUI by [Salman](https://github.com/mohamed-salman-7)</summary>
+<summary> &nbsp;&nbsp; SwiftUI by <a href="https://github.com/mohamed-salman-7">Salman</a></summary>
+
 1. [SwiftUI Modifiers - Date: 16-April-2022](#)
 </details>
 
 <details>
-<summary> &nbsp;&nbsp; CoreData Light Weight Migration by [Partipan](https://github.com/Parthipan-Sparkout)</summary>
+<summary> &nbsp;&nbsp; CoreData Light Weight Migration by <a href="https://github.com/Parthipan-Sparkout">Partipan</a></summary>
+
 - [Session - Date: 18-April-2022](#)
 </details>
 
 <details open>
-<summary> &nbsp;&nbsp; DispatchWorkItem and OperationQueue by [Shanmugarajeshwaran](https://github.com/shanmugam105)</summary>
+<summary> &nbsp;&nbsp; DispatchWorkItem and OperationQueue by <a href="https://github.com/shanmugam105">Shanmugarajeshwaran</a></summary>
+
 - [Session - Date: 19-April-2022](https://github.com/shanmugam105/DispatchWorkItem-Example)
 </details>
