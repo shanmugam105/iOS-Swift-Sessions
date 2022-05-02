@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary> &nbsp;&nbsp; VIPER by <a href="https://github.com/Keerthi-Sparkout">Keerthi</a></summary>
+<summary> &nbsp;&nbsp; VIPER by <a href="https://github.com/Keerthi-Sparkout">Keerthika</a></summary>
 
 1. [VIPER Introduction - Date: 11-April-2022](#)
 </details>
