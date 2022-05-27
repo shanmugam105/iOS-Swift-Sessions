@@ -3,14 +3,28 @@
 </p>
 
 # iOS Swift Sessions
+
 <details open>
-<summary> &nbsp;&nbsp; LLDB by <a href="#">Vigneshkumar</a></summary>
+<summary> &nbsp;&nbsp; Web Socket and SocketIO Intro by <a href="#">Vigneshkumar</a></summary>
+
+  - Repository [Socket](https://github.com/Vigneshkumarzx/SocketIoExmaple)
+  - Keynote [Download Here](https://github.com/Vigneshkumarzx/SocketIoExmaple/blob/main/SocketIoExmaple/Keynote/socket%20.key)
+</details>
+
+<details open>
+<summary> &nbsp;&nbsp; Codable Intro by <a href="https://github.com/Anandhajs">Anadhakumar</a></summary>
+
+  - Keynote [Download Here](/resources/codable_intro.key)
+</details>
+
+<details open>
+<summary> &nbsp;&nbsp; LLDB by <a href="https://github.com/Vigneshkumarzx">Vigneshkumar</a></summary>
 
   - Keynote [Download Here](/resources/LLDB_intro.key)
 </details>
 
 <details open>
-<summary> &nbsp;&nbsp; Breakpoints by <a href="#">Anadhakumar</a></summary>
+<summary> &nbsp;&nbsp; Breakpoints by <a href="https://github.com/Anandhajs">Anadhakumar</a></summary>
 
   - Keynote [Download Here](/resources/BreakPoints_Intro.key)
 </details>
@@ -18,14 +32,14 @@
 <details open>
 <summary> &nbsp;&nbsp; VIPER by <a href="https://github.com/Keerthi-Sparkout">Keerthika</a></summary>
 
-1. Repository [VIPER Introduction - Date: 11-April-2022](#)
-2. Keynote [Download Here](/resources/VIPER_Design_Pattern.key)
+- Repository [VIPER Introduction - Date: 11-April-2022](#)
+- Keynote [Download Here](/resources/VIPER_Design_Pattern.key)
 </details>
 
 <details open>
 <summary> &nbsp;&nbsp; SwiftUI by <a href="https://github.com/mohamed-salman-7">Salmaan</a></summary>
 
-1. [SwiftUI Modifiers - Date: 16-April-2022](#)
+- [SwiftUI Modifiers - Date: 16-April-2022](#)
 </details>
 
 <details>
