@@ -3,26 +3,26 @@
 </p>
 
 # iOS Swift Sessions
-<details>
+<details open>
 <summary> &nbsp;&nbsp; LLDB by <a href="#">Vigneshkumar</a></summary>
 
-  - [Session - Date: 00-00-2022](#)
+  - Keynote [Download Here](/resources/LLDB_intro.key)
 </details>
 
-<details>
+<details open>
 <summary> &nbsp;&nbsp; Breakpoints by <a href="#">Anadhakumar</a></summary>
 
-  - [Session - Date: 00-00-2022](#)
+  - Keynote [Download Here](/resources/BreakPoints_Intro.key)
 </details>
 
-<details>
+<details open>
 <summary> &nbsp;&nbsp; VIPER by <a href="https://github.com/Keerthi-Sparkout">Keerthika</a></summary>
 
 1. Repository [VIPER Introduction - Date: 11-April-2022](#)
 2. Keynote [Download Here](/resources/VIPER_Design_Pattern.key)
 </details>
 
-<details>
+<details open>
 <summary> &nbsp;&nbsp; SwiftUI by <a href="https://github.com/mohamed-salman-7">Salmaan</a></summary>
 
 1. [SwiftUI Modifiers - Date: 16-April-2022](#)
@@ -37,5 +37,6 @@
 <details open>
 <summary> &nbsp;&nbsp; DispatchWorkItem and OperationQueue by <a href="https://github.com/shanmugam105">Shanmugarajeshwaran</a></summary>
 
-- [Session - Date: 19-April-2022](https://github.com/shanmugam105/DispatchWorkItem-Example)
+-  Repository [Session - Date: 19-April-2022](https://github.com/shanmugam105/DispatchWorkItem-Example)
+-  Keynote [Download Here](/resources/DispatchWorkItem_and_OperationQueue.key)
 </details>
