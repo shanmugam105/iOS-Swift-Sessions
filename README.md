@@ -18,17 +18,18 @@
 <details>
 <summary> &nbsp;&nbsp; VIPER by <a href="https://github.com/Keerthi-Sparkout">Keerthika</a></summary>
 
-1. [VIPER Introduction - Date: 11-April-2022](#)
+1. Repository [VIPER Introduction - Date: 11-April-2022](#)
+2. Keynote [Download Here](/resources/VIPER_Design_Pattern.key)
 </details>
 
 <details>
-<summary> &nbsp;&nbsp; SwiftUI by <a href="https://github.com/mohamed-salman-7">Salman</a></summary>
+<summary> &nbsp;&nbsp; SwiftUI by <a href="https://github.com/mohamed-salman-7">Salmaan</a></summary>
 
 1. [SwiftUI Modifiers - Date: 16-April-2022](#)
 </details>
 
 <details>
-<summary> &nbsp;&nbsp; CoreData Light Weight Migration by <a href="https://github.com/Parthipan-Sparkout">Partipan</a></summary>
+<summary> &nbsp;&nbsp; CoreData Light Weight Migration by <a href="https://github.com/Parthipan-Sparkout">Parthipan</a></summary>
 
 - [Session - Date: 18-April-2022](#)
 </details>
