@@ -61,3 +61,10 @@
 -  Repository [Session - Date: 07-June-2022](https://github.com/shanmugam105/Behavioral-Design-Patterns)
 -  Keynote [Download Here](/resources/Observer_Pattern.key)
 </details>
+
+<details open>
+<summary> &nbsp;&nbsp; CoreData Fetch Result Controller by <a href="https://github.com/mohamed-salman-7">Salmaan</a></summary>
+
+- Repository [CoreData Fetch Result Controller - Date: 07-June-2022](https://github.com/mohamed-salman-7/Core_data_Fetch_Result_controller)
+-  Keynote [Download Here](/resources/CoreDataFetchResultController/CoreData_Fetch_result_controller.key)
+</details>
