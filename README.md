@@ -54,3 +54,10 @@
 -  Repository [Session - Date: 19-April-2022](https://github.com/shanmugam105/DispatchWorkItem-Example)
 -  Keynote [Download Here](/resources/DispatchWorkItem_and_OperationQueue.key)
 </details>
+
+<details open>
+<summary> &nbsp;&nbsp; Observer Pattern by <a href="https://github.com/shanmugam105">Shanmugarajeshwaran</a></summary>
+
+-  Repository [Session - Date: 07-June-2022](https://github.com/shanmugam105/Behavioral-Design-Patterns)
+-  Keynote [Download Here](/resources/Observer_Pattern.key)
+</details>
