@@ -37,7 +37,7 @@
 </details>
 
 <details open>
-<summary> &nbsp;&nbsp; SwiftUI by <a href="https://github.com/mohamed-salman-7">Salmaan</a></summary>
+<summary> &nbsp;&nbsp; SwiftUI by <a href="https://github.com/mohamed-salman-7">Mohamed Salman</a></summary>
 
 - [SwiftUI Modifiers - Date: 16-April-2022](#)
 </details>
@@ -63,7 +63,7 @@
 </details>
 
 <details open>
-<summary> &nbsp;&nbsp; CoreData Fetch Result Controller by <a href="https://github.com/mohamed-salman-7">Salmaan</a></summary>
+<summary> &nbsp;&nbsp; CoreData Fetch Result Controller by <a href="https://github.com/mohamed-salman-7">Mohamed Salman</a></summary>
 
 - Repository [CoreData Fetch Result Controller - Date: 07-June-2022](https://github.com/mohamed-salman-7/Core_data_Fetch_Result_controller)
 -  Keynote [Download Here](/resources/CoreDataFetchResultController/CoreData_Fetch_result_controller.key)
