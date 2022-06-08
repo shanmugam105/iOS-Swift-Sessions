@@ -58,7 +58,7 @@
 <details open>
 <summary> &nbsp;&nbsp; Observer Pattern by <a href="https://github.com/shanmugam105">Shanmugarajeshwaran</a></summary>
 
--  Repository [Session - Date: 07-June-2022](https://github.com/shanmugam105/Behavioral-Design-Patterns)
+-  Repository [Session - Date: 06-June-2022](https://github.com/shanmugam105/Behavioral-Design-Patterns)
 -  Keynote [Download Here](/resources/Observer_Pattern.key)
 </details>
 
